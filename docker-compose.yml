@@ -1,0 +1,6 @@
+services:
+  lolinfo:
+    build: .
+    container_name: lolinfo_container
+    stdin_open: true
+    tty: true
