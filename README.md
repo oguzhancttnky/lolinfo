@@ -1,4 +1,4 @@
-# lolinfo
+# Introduction
 
 lolinfo fetches data from mobalytics.gg gives informations about champion.
 
@@ -27,5 +27,5 @@ docker build -t lolinfo .
 ```
 Then run Docker container from the image named lolinfo 
 ```
-sudo docker run -it lolinfo
+docker run -it lolinfo
 ```
